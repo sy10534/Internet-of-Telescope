@@ -1,8 +1,7 @@
 # Internet-of-Telescope
 Open source project for Internet of Telescope 鏡聯網
 <br>
-For those who are looking for a cheap controller, and is willing to do a little tinkering.
-
+Internet of telescope was a system that is designed to operate on DIY equatorial mount, via Arduino and Raspberry PI.
 
 ## Behind the project:
 I am a secondary school student from Hong Kong who loves exploring about astronomy, physics, engineering, and computer technologies. I started designing this system since the November of 2024, prices of asiair and onstep controller were unreasonably expensive in my perspective, so I thought maybe I could create a telescope control system by myself.
