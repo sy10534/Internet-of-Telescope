@@ -3,6 +3,7 @@ Open source project for Internet of Telescope 鏡聯網
 
 ## Behind the project:
 I am a secondary school student from Hong Kong who loves exploring about astronomy, physics, engineering, and computer technologies. I started designing this system since the November of 2024, prices of asiair and onstep controller were unreasonably expensive in my perspective, so I thought maybe I could create a telescope control system by myself.
+<br>
 After careful discussion with my teachers, I decided it was the best to make the project open source for everyone in the Internet.
 
 
