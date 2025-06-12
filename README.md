@@ -2,19 +2,8 @@
 Open source project for Internet of Telescope 鏡聯網
 
 ## Behind the project:
-I am a student from Hong Kong who loves astronomy, physics, engineering, and computer technologies. I started designing this system since the November of 2024, prices of asiair and onstep controller were unreasonably expensive in my perspective, so I thought maybe I could create a telescope control system by myself.
-
-## What I've learnt from this project:
-to generalize it into a few fields
-
-### data analysis
-
-### engineering
-
-### programming
-
-### astronomy and astrophysics
-inputting coordinates into IOT requires some transformation of coordinates, I understood a lot more on celestial sphere application after working on the system.
+I am a secondary school student from Hong Kong who loves exploring about astronomy, physics, engineering, and computer technologies. I started designing this system since the November of 2024, prices of asiair and onstep controller were unreasonably expensive in my perspective, so I thought maybe I could create a telescope control system by myself.
+After careful discussion with my teachers, I decided it was the best to make the project open source for everyone in the Internet.
 
 
 ## Competition results:
